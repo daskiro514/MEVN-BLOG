@@ -1,2 +1,2 @@
 # MEVN-BLOG
-Blog Post Project
+Vue.js Mongo Express Node.js Blog Post Project
